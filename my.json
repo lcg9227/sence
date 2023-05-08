@@ -114,7 +114,7 @@
                "id" : "URLAudioClipManager", 
                "clips" : [ 
                   { 
-                     "url" : "SELF:/Custom/mmd/mofa/mofa.wav", 
+                     "url" : "Custom/mmd/mofa/mofa.wav", 
                      "displayName" : "Custom/mmd/mofa/mofa.wav"
                   }
                ]
